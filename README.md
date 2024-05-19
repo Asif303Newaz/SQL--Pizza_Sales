@@ -1,0 +1,1 @@
+This project involves analyzing a pizza sales dataset to gain insights for improving sales. The analysis is performed using SQL queries to address specific business questions related to revenue and sales performance.
